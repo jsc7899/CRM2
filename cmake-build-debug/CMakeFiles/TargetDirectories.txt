@@ -1,0 +1,3 @@
+/home/jared/School/EE312/projects/Project7_starter_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jared/School/EE312/projects/Project7_starter_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jared/School/EE312/projects/Project7_starter_files/cmake-build-debug/CMakeFiles/Project7_starter_files.dir
